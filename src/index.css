@@ -1,0 +1,13 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: "Raleway", system-ui;
+}
+@media(max-width:560px){
+  .watchHistory{
+    display: none;
+  }
+  .Home{
+    display: none;
+  }
+}
